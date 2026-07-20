@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👾 ¡Hola, bienvenidos a mi Universo! 🎧
+# 👾 ¡Hola, Bienvenidos a Mí Perfíl de GitHub! 🎧
   
 ### ✨ Desarrolladora | Gamer | Artista | Apasionada por la Tecnología ✨
 
