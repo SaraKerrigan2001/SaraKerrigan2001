@@ -45,11 +45,6 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 
 <br/>
-
-### 🏆 Mis Trofeos
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaraKerrigan2001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br/>
 
 ### 📊 Estadísticas y Contribuciones
