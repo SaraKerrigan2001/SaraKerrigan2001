@@ -4,10 +4,10 @@
 
 💡 &nbsp;Me encanta explorar nuevas tecnologías, desarrollar soluciones de software y aprender cosas nuevas.\
 🎓 &nbsp;[Tu educación actual / Tu universidad o instituto].\
-🌱 &nbsp;Actualmente aprendiendo sobre [Tus intereses, ej. Inteligencia Artificial, Desarrollo Web, Diseño de Sistemas].\
-✍️ &nbsp;En mi tiempo libre, me dedico a [Tus hobbies, ej. leer, jugar videojuegos, diseñar].\
+🌱 &nbsp;Actualmente aprendiendo sobre Inteligencia Artificial, Desarrollo Web.\
+✍️ &nbsp;En mi tiempo libre, me dedico a leer, jugar videojuegos, dibujo, pintar.\
 💬 &nbsp;¡Siéntete libre de contactarme para hablar de tecnología, proyectos o colaborar!\
-✉️ &nbsp;Puedes enviarme un correo a [Tu Email] ¡Intentaré responder lo antes posible!\
+✉️ &nbsp;Puedes enviarme un correo a mariapaulacapachogonzalez@gmail.com ¡Intentaré responder lo antes posible!\
 📄 &nbsp;Por favor, echa un vistazo a mi [Currículum](#) para más detalles.
 
 <img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
