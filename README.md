@@ -2,6 +2,8 @@
 
 ### 👩🏻💻 &nbsp;Sobre Mí
 
+<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right"/>
+
 💡 &nbsp;Me encanta explorar nuevas tecnologías, desarrollar soluciones de software y aprender cosas nuevas.\
 🎓 &nbsp;[Tu educación actual / Tu universidad o instituto].\
 🌱 &nbsp;Actualmente aprendiendo sobre Inteligencia Artificial, Desarrollo Web.\
@@ -9,9 +11,6 @@
 💬 &nbsp;¡Siéntete libre de contactarme para hablar de tecnología, proyectos o colaborar!\
 ✉️ &nbsp;Puedes enviarme un correo a mariapaulacapachogonzalez@gmail.com ¡Intentaré responder lo antes posible!\
 📄 &nbsp;Por favor, echa un vistazo a mi [Currículum](#) para más detalles.
-
-<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tecnologías y Herramientas
 
 <!-- Puedes agregar o quitar tecnologías de aquí según tu experiencia -->
@@ -41,6 +40,6 @@
 <p align="center">
 <a href="[Enlace a tu web o portafolio]"><img src="https://img.shields.io/badge/-Mi%20Sitio%20Web-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/[Tu-Usuario-LinkedIn]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:[Tu-Email]"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mariapaulacapachogonzalez@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/[Tu-Instagram]"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
