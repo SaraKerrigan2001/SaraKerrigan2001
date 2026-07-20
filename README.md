@@ -24,7 +24,7 @@
       </ul>
     </td>
     <td align="center" width="50%" style="border: none;">
-      <img src="https://i.pinimg.com/originals/28/73/0c/28730c49080b06bcfdeec6e8c8959d07.gif" width="280" alt="Anime Pixel Art"/>
+      <img width="736" height="736" alt="98afa9a73906983dde8fd6ac62638005" src="https://github.com/user-attachments/assets/de7a70b5-224c-4ae3-9be8-41879bcbfb01" />
   </tr>
 </table>
 
