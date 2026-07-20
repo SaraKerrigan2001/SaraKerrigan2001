@@ -49,9 +49,6 @@
 
 ### 📊 Estadísticas y Contribuciones
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaraKerrigan2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraKerrigan2001&layout=compact&theme=tokyonight" width="48%" />
-
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaraKerrigan2001&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=a9b1d6&area=true&hide_border=true" width="100%" />
