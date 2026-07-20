@@ -16,7 +16,7 @@
       <h3>👩🏻‍💻 Sobre Mí</h3>
       <ul align="left">
         <li>🎮 <b>Gaming & Tech:</b> Me encanta explorar nuevas tecnologías y el mundo del software.</li>
-        <li>🎓 <b>Estudios:</b> [Tu educación actual / Tu universidad].</li>
+        <li>🎓 <b>Estudios:</b> Colegio SEMINARIO MENOR DIOCESANO SAN JOSÉ DE CÚCUTA, Escuela de Arte y Música, Instituto Bolivariano Esdiseños IBES.</li>
         <li>🌱 <b>Aprendiendo:</b> Inteligencia Artificial y Desarrollo Web.</li>
         <li>🎨 <b>Arte & Música:</b> En mi tiempo libre, dibujo, pinto y escucho música.</li>
         <li>💬 <b>Colaboración:</b> ¡Abierta a charlar sobre proyectos y tecnología!</li>
