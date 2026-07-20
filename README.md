@@ -25,7 +25,7 @@
     </td>
     <td align="center" width="50%" style="border: none;">
       <!-- Puedes reemplazar este enlace por la imagen que desees subir a tu repositorio -->
-      <img src="https://i.pinimg.com/originals/28/73/0c/28730c49080b06bcfdeec6e8c8959d07.gif" width="280" alt="Anime Pixel Art"/>
+      <img src="98afa9a73906983dde8fd6ac62638005.jpg" width="280" alt="Anime Pixel Art"/>
     </td>
   </tr>
 </table>
