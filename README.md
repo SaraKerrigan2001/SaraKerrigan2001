@@ -84,20 +84,15 @@
 
 <div align="center">
 
-  <!-- Tarjetas de estadísticas con URLs corregidas y estables -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaraKerrigan2001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraKerrigan2001&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Tarjeta de Estadísticas de GitHub -->
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaraKerrigan2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Tarjeta de Lenguajes Más Usados -->
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaraKerrigan2001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
   <br/><br/>
 
-  <!-- Gráfico de Actividad -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaraKerrigan2001&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=a9b1d6&area=true&hide_border=true" width="100%" />
+  <!-- Gráfico de Actividad alternativo y súper estable -->
+  <img src="https://svg.template-card.workers.dev/api?username=SaraKerrigan2001&theme=tokyo_night" width="100%" alt="Activity Graph" />
 
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Footer Banner Animado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%" />
 </div>
