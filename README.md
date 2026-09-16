@@ -1,62 +1,104 @@
 <div align="center">
-  
-# 👾 ¡Hola, Bienvenidos a Mí Perfíl de GitHub! 🎧
-  
-### ✨ Desarrolladora | Gamer | Artista | Apasionada por la Tecnología ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Amante+de+los+videojuegos+y+la+tecnolog%C3%ADa;Apasionada+por+el+dibujo+y+el+arte;Siempre+acompa%C3%B1ada+de+buena+m%C3%BAsica" alt="Typing SVG" />
+  <!-- Header Banner Animado -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=¡Hola,%20bienvenidos%20a%20mi%20perfil!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+
+  <!-- Subtítulo Animado (Typing SVG) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Amante+de+los+videojuegos+y+la+tecnolog%C3%ADa;Apasionada+por+el+dibujo+y+el+arte;Siempre+acompa%C3%B1ada+de+buena+m%C3%BAsica" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Redes Sociales / Contacto -->
+  <a href="https://www.linkedin.com/in/maria-paula-capacho-gonzalez-189849342/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mariapaulacapachogonzalez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/paulacapacho18/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+</div>
+
+<br/>
+
+---
+
+### 👩🏻‍💻 Sobre Mí
+
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="55%" valign="top" style="border: none;">
+      <ul>
+        <li>🎮 <b>Gaming & Tech:</b> Me encanta explorar nuevas tecnologías y el mundo del desarrollo de software.</li>
+        <li>🎓 <b>Estudios:</b> Tecnología en Análisis y Desarrollo de Software (SENA ADSO), IBES, UDES.</li>
+        <li>🌱 <b>Aprendiendo:</b> Inteligencia Artificial, Backend en Python/PHP y Desarrollo Web.</li>
+        <li>🎨 <b>Arte & Música:</b> En mi tiempo libre pinto, hago arte digital y escucho música.</li>
+        <li>💬 <b>Colaboración:</b> ¡Abierta a charlar sobre proyectos y tecnología!</li>
+        <li>📫 <b>Contacto:</b> <a href="mailto:mariapaulacapachogonzalez@gmail.com">mariapaulacapachogonzalez@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="45%" align="center" style="border: none;">
+      <!-- GIF Gamer / Dev Integrado -->
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93825/giphy.gif" width="100%" style="border-radius:12px;" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<div align="center">
+
+  <!-- Lenguajes -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <br/>
+
+  <!-- Frontend & Frameworks -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <br/>
+
+  <!-- Bases de datos & Herramientas -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
 ---
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none;">
-      <h3>👩🏻‍💻 Sobre Mí</h3>
-      <ul align="left">
-        <li>🎮 <b>Gaming & Tech:</b> Me encanta explorar nuevas tecnologías y el mundo del software.</li>
-        <li>🎓 <b>Estudios:</b> Colegio SEMINARIO MENOR DIOCESANO SAN JOSÉ DE CÚCUTA, Universidad UDES, Escuela de Arte y Música, Instituto Bolivariano Esdiseños IBES.</li>
-        <li>🌱 <b>Aprendiendo:</b> Inteligencia Artificial y Desarrollo Web.</li>
-        <li>🎨 <b>Arte & Música:</b> En mi tiempo libre, dibujo, pinto y escucho música.</li>
-        <li>💬 <b>Colaboración:</b> ¡Abierta a charlar sobre proyectos y tecnología!</li>
-        <li>📫 <b>Contacto:</b> <a href="mailto:mariapaulacapachogonzalez@gmail.com">mariapaulacapachogonzalez@gmail.com</a></li>
-      </ul>
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <img width="736" height="736" alt="98afa9a73906983dde8fd6ac62638005" src="https://github.com/user-attachments/assets/de7a70b5-224c-4ae3-9be8-41879bcbfb01" />
-  </tr>
-</table>
+### 📊 Estadísticas y Contribuciones
+
+<div align="center">
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaraKerrigan2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraKerrigan2001&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Gráfico de Actividad Completo -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaraKerrigan2001&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=a9b1d6&area=true&hide_border=true" width="100%" />
+
+</div>
 
 <br/>
 
 <div align="center">
-
-### 🛠️ Tecnologías y Herramientas
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
-
-<br/>
-<br/>
-
-### 📊 Estadísticas y Contribuciones
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaraKerrigan2001&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=a9b1d6&area=true&hide_border=true" width="100%" />
-
-<br/><br/>
-
-### 🤝🏻 Conecta Conmigo
-
-<a href="https://linkedin.com/in/[Tu-Usuario-LinkedIn]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mariapaulacapachogonzalez@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/[Tu-Instagram]"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-
+  <!-- Footer Banner Animado -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%" />
 </div>
