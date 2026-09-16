@@ -42,8 +42,8 @@
       </ul>
     </td>
     <td width="45%" align="center" style="border: none;">
-      <!-- GIF Gamer / Dev Integrado -->
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93825/giphy.gif" width="100%" style="border-radius:12px;" alt="Coding GIF" />
+      <!-- AQUÍ PEGA EL ENLACE DE TU FOTO SUBIDA A GITHUB -->
+      <img src="https://github.com/user-attachments/assets/de7a70b5-224c-4ae3-9be8-41879bcbfb01" width="220" style="border-radius: 50%;" alt="Foto de perfil" />
     </td>
   </tr>
 </table>
@@ -84,14 +84,13 @@
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaraKerrigan2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraKerrigan2001&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
+  <!-- Tarjetas de estadísticas con URLs corregidas y estables -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaraKerrigan2001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraKerrigan2001&layout=compact&theme=tokyonight&hide_border=true" />
 
   <br/><br/>
 
-  <!-- Gráfico de Actividad Completo -->
+  <!-- Gráfico de Actividad -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaraKerrigan2001&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=a9b1d6&area=true&hide_border=true" width="100%" />
 
 </div>
